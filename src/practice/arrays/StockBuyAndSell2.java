@@ -1,5 +1,8 @@
 package practice.arrays;
 
+/**
+ *  https://www.youtube.com/watch?v=blUwDD6JYaE&ab_channel=KevinNaughtonJr.
+ */
 public class StockBuyAndSell2 {
 
 	public static void main(String[] args) {
