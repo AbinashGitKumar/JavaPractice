@@ -1,4 +1,4 @@
-package practice.BST;
+package practice.BST.createBSTFromPostOrder;
 
 /**
  * END ELEMENT WOULD BE THE ROOT ELEMENT AS IN POST ORDER TRAVERSAL BST.
